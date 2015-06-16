@@ -1,5 +1,6 @@
 # tile_logs_vis
 Toolset for visualise openstreetmap.org tile logs
+
 Скрипт для визуализации логов запросов тайлов с сервера openstreetmap.org
 
 Сделано на основе статьи http://lukasmartinelli.ch/python/2015/05/24/parsing-and-visualizing-osm-access-logs.html
